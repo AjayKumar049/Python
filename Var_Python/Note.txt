@@ -1,0 +1,25 @@
+Var :
+        Variable is a name that is used to refer to memory location. 
+        Python variable is also known as an identifier and used to hold value.
+
+Note:  Variable names can be a group of both the letters and digits,
+        but they have to begin with a letter or an underscore.
+
+Var Rules:
+            1.The first character of the variable must be an alphabet or underscore ( _ ).
+            2.All the characters except the first character may be an alphabet of lower-case(a-z), 
+            upper-case (A-Z), underscore, or 
+            digit (0-9).
+            3.Identifier name must not contain any white-space, or
+            special character (!, @, #, %, ^, &, *).
+            4.Identifier names are case sensitive; for example, my name, 
+                and MyName is not the same.
+            5.Examples of valid identifiers: a123, _n, n_9, etc.
+            6.Examples of invalid identifiers: 1a, n%4, n 9, etc.
+
+Note: The equal (=) operator is used to assign value to a variable.
+      Python does not create another object.
+
+Python Variable -
+        Type's are 1.Local Variable - declared inside the function 
+                   2.Global variable - declared outside the function
